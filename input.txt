@@ -1,0 +1,19 @@
+1)  What are the names of the most popular video games of all time? What are the most important features of a computer game for you personally?
+2)  In which way are games in the present different from games in the past? What trends in gaming can you name?
+3)  What are the good things about playing video games? Are there any disadvantages?
+4)  What genres of video games can you name? Describe them.
+5)  What is the difference between the Web and the Internet?
+6)  What is a browser? What is your favourite browser? Why did you choose it?
+7)  What is a plug-in?
+8)  What is a bookmark?
+9)  What is a search engine? How does it work? Which search engine do you prefer and why?
+10)  What is a cookie and which functions does it perform?
+11)  What is broadband? What are the differences between broadband and baseband connection?
+12)  What is a network? What’s the purpose of a network?
+13)  How can networks be classified according to geographical area?
+14)  How can networks be classified according to their architecture?
+15)  How can networks be classified according to their topology? What are the pluses and minuses of each topology?
+16)  What are the advantages and disadvantages of WLANs? Which is better?
+17)  Which devices are included in a typical LAN? How do they function? Which devices are used to connect similar / dissimilar networks?
+18)  What network communication layers can you name and which operations are performed within each of them?
+19)  What is a social network? What essential qualities does it have to have?
